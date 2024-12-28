@@ -1,4 +1,4 @@
 # RansomwarePython
-Foi feito um desafio aonde que solicita a criação de dois scripts um para criptografar e um para descriptografar.
+Desenvolvimento de dois scripts para simulação de um ransomware, utilizando as bibliotecas OS (interação com o sistema operacional) e PYAES (para criptografia), atendendo assim a proposta solicitada.
 
-   ![Imagem de exemplo](Screenshot_1.png)
+![Imagem de exemplo](Screenshot_1.png)
